@@ -48,3 +48,36 @@ Psychology Concepts:
 4. Self-care: This concept is about taking care of oneself physically, mentally, and emotionally. The game could include cards or challenges that encourage players to engage in self-care activities like taking a break, getting some fresh air, or engaging in a favorite hobby. Players could earn points for completing self-care activities during gameplay.
 
 By including these psychology concepts in the game, players could learn practical skills for managing their emotions, thoughts, and overall well-being. The game could be marketed to young adults who are interested in personal growth and self-improvement, and who enjoy engaging in interactive activities that challenge them to think and learn.
+
+
+#### Psychological Cards
+
+Emotional Regulation Cards:
+a) Breathe: Take a deep breath and count to five. Release your breath slowly and notice how your body feels.
+
+b) Grounding: Use your five senses to ground yourself in the present moment. Notice five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.
+
+c) Positive Self-Talk: Replace negative self-talk with positive affirmations. For example, "I am capable and strong" instead of "I can't do this."
+
+Cognitive Biases Cards:
+a) Confirmation Bias: Look for evidence that contradicts your beliefs. Challenge your assumptions and be open to different perspectives.
+
+b) Sunk Cost Fallacy: Don't let past investments influence current decisions. Focus on the present and future.
+
+c) Hindsight Bias: Don't be too quick to judge past events as predictable or inevitable. Remember that hindsight is 20/20.
+
+Resilience Cards:
+a) Positive Reframing: Find the silver lining in a difficult situation. Focus on the lessons learned and how you can grow from the experience.
+
+b) Problem-Solving: Break down a problem into smaller parts and brainstorm solutions. Take action on the solutions that seem most feasible.
+
+c) Social Support: Reach out to friends, family, or a therapist for support. Remember that asking for help is a sign of strength.
+
+Self-Care Cards:
+a) Mindfulness: Practice being present in the moment without judgment. Use meditation, breathing exercises, or yoga to help you stay grounded.
+
+b) Sleep Hygiene: Establish a consistent sleep routine and avoid electronics before bed. Get at least 7-8 hours of sleep per night.
+
+c) Gratitude: Focus on the things you are grateful for in your life. Write down three things you are grateful for each day.
+
+These cards can be used to provide players with practical strategies for managing their emotions, thoughts, and overall well-being.
