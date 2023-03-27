@@ -31,3 +31,20 @@ The AI component comes in the form of an accompanying app, which acts as a "ment
 10. Collect feedback and iterate: As people play the game and use the app, collect feedback and iterate on the design. Use player feedback to improve the gameplay and make the game even more engaging and effective as a tool for learning about mental health.
 
 By following these steps, you can create a unique and engaging board game that incorporates psychology concepts and an AI-powered app. The game could serve as a tool for people to learn more about mental health and develop practical skills for managing their own mental well-being.
+
+
+### 1
+
+Target Audience: Young adults aged 18-35
+
+Psychology Concepts:
+
+1. Emotional Regulation: This concept is about understanding and managing our emotions effectively. The game could include strategies for managing strong emotions, such as deep breathing or mindfulness exercises. Players could earn points for successfully regulating their emotions during gameplay.
+
+2. Cognitive Biases: This concept is about the ways our thoughts and beliefs can become distorted, leading to inaccurate perceptions of reality. The game could include cards that challenge players to recognize and overcome common cognitive biases like confirmation bias or the sunk cost fallacy.
+
+3. Resilience: This concept is about developing the ability to bounce back from setbacks and challenges. The game could include scenarios that test players' resilience, such as losing a turn or encountering a setback on the game board. Players could earn points for demonstrating resilience and continuing to play the game despite setbacks.
+
+4. Self-care: This concept is about taking care of oneself physically, mentally, and emotionally. The game could include cards or challenges that encourage players to engage in self-care activities like taking a break, getting some fresh air, or engaging in a favorite hobby. Players could earn points for completing self-care activities during gameplay.
+
+By including these psychology concepts in the game, players could learn practical skills for managing their emotions, thoughts, and overall well-being. The game could be marketed to young adults who are interested in personal growth and self-improvement, and who enjoy engaging in interactive activities that challenge them to think and learn.
