@@ -33,7 +33,7 @@ The AI component comes in the form of an accompanying app, which acts as a "ment
 By following these steps, you can create a unique and engaging board game that incorporates psychology concepts and an AI-powered app. The game could serve as a tool for people to learn more about mental health and develop practical skills for managing their own mental well-being.
 
 
-### 1
+### Step 1
 
 Target Audience: Young adults aged 18-35
 
