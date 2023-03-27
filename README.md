@@ -53,6 +53,7 @@ By including these psychology concepts in the game, players could learn practica
 #### Psychological Cards
 
 **Emotional Regulation Cards:**
+
 a) Breathe: Take a deep breath and count to five. Release your breath slowly and notice how your body feels.
 
 b) Grounding: Use your five senses to ground yourself in the present moment. Notice five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.
@@ -60,6 +61,7 @@ b) Grounding: Use your five senses to ground yourself in the present moment. Not
 c) Positive Self-Talk: Replace negative self-talk with positive affirmations. For example, "I am capable and strong" instead of "I can't do this."
 
 **Cognitive Biases Cards:**
+
 a) Confirmation Bias: Look for evidence that contradicts your beliefs. Challenge your assumptions and be open to different perspectives.
 
 b) Sunk Cost Fallacy: Don't let past investments influence current decisions. Focus on the present and future.
@@ -67,6 +69,7 @@ b) Sunk Cost Fallacy: Don't let past investments influence current decisions. Fo
 c) Hindsight Bias: Don't be too quick to judge past events as predictable or inevitable. Remember that hindsight is 20/20.
 
 **Resilience Cards:**
+
 a) Positive Reframing: Find the silver lining in a difficult situation. Focus on the lessons learned and how you can grow from the experience.
 
 b) Problem-Solving: Break down a problem into smaller parts and brainstorm solutions. Take action on the solutions that seem most feasible.
@@ -74,6 +77,7 @@ b) Problem-Solving: Break down a problem into smaller parts and brainstorm solut
 c) Social Support: Reach out to friends, family, or a therapist for support. Remember that asking for help is a sign of strength.
 
 **Self-Care Cards:**
+
 a) Mindfulness: Practice being present in the moment without judgment. Use meditation, breathing exercises, or yoga to help you stay grounded.
 
 b) Sleep Hygiene: Establish a consistent sleep routine and avoid electronics before bed. Get at least 7-8 hours of sleep per night.
